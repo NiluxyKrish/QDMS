@@ -1,0 +1,276 @@
+
+Suntharalingam Arunan
+,
+Oct 26, 5:24 PM
+,
+Check  mail
+,Oct 26, 5:24 PM,
+Sasikala Ambalavanar
+,
+Oct 26, 5:25 PM
+,
+varala ondum
+,Oct 26, 5:25 PM,
+Suntharalingam Arunan
+,
+Oct 26, 5:25 PM
+,
+spam kka par
+,Oct 26, 5:25 PM,
+MONDAY, OCT 31
+Wathsala Weerakoon
+,
+Oct 31, 5:05 PM
+,
+image.png
+,Oct 31, 5:05 PM,
+Wathsala Weerakoon
+,
+Oct 31, 6:10 PM
+,
+image.png
+,Oct 31, 6:10 PM,
+TUESDAY, NOV 8
+Jeyanthini Subendiran
+,
+Nov 8, 2:43 PM
+,
+https://www.mysqltutorial.org/create-the-first-trigger-in-mysql.aspx
+MySQL CREATE TRIGGER By Practical Examples
+MySQL CREATE TRIGGER By Practical Examples
+www.mysqltutorial.org
+,Nov 8, 2:43 PM,
+TUESDAY, NOV 15
+Suntharalingam Arunan
+,
+Nov 15, 3:24 PM
+,
+https://drive.google.com/drive/folders/1QUSDnrDyU57T8ArKd2skWJNMixMoUHg8
+TH IMAGE
+,Nov 15, 3:24 PM,
+Space update:Suntharalingam Arunan added Priyanka Sundaramoorthy, Rahul Sivapalan, Sriharan Gobithan
+WEDNESDAY, DEC 14
+Priyanka Sundaramoorthy
+,
+Dec 14, 10:08 AM
+,
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+## Maven
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+##############################
+## NetBeans
+##############################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+
+##############################
+## OS X
+##############################
+.DS_Store
+,Dec 14, 10:08 AM,
+Space update:Sriharan Gobithan added Niluxy
+Sasikala Ambalavanar
+,
+Dec 14, 10:37 AM
+,
+git add .
+git commit -m "new changes"
+git push origin hello
+,Dec 14, 10:37 AM,
+TUESDAY, DEC 20
+Priyanka Sundaramoorthy
+,
+Dec 20, 12:06 PM
+,
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="com.ii.qa.testcases.LoginTest"/>
+      <class name="com.ii.qa.testcases.SbuTest"/>  
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
+,Dec 20, 12:06 PM,
+FRIDAY, JAN 6
+Priyanka Sundaramoorthy
+,
+Fri 12:11 PM
+,
+search.java
+,Fri 12:11 PM,
+Priyanka Sundaramoorthy
+,
+Fri 3:39 PM
+,
+https://docs.google.com/spreadsheets/d/16NOgaZWgoShkyNgzA4DaeubfodBcr19ZFx9U7aXKB_o/edit#gid=0
+QA-Java Skill Sheet
+QA-Java Skill Sheet
+,Fri 3:39 PM,
+UNREAD
+TODAY
+Priyanka Sundaramoorthy
+,
+14 min
+,
+New
+##############################
+## Java
+##############################
+.mtj.tmp/
+*.class
+*.jar
+*.war
+*.ear
+*.nar
+hs_err_pid*
+
+##############################
+## Maven
+##############################
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+pom.xml.bak
+release.properties
+dependency-reduced-pom.xml
+buildNumber.properties
+.mvn/timing.properties
+.mvn/wrapper/maven-wrapper.jar
+
+##############################
+## Gradle
+##############################
+bin/
+build/
+.gradle
+.gradletasknamecache
+gradle-app.setting
+!gradle-wrapper.jar
+
+##############################
+## IntelliJ
+##############################
+out/
+.idea/
+.idea_modules/
+*.iml
+*.ipr
+*.iws
+
+##############################
+## Eclipse
+##############################
+.settings/
+bin/
+tmp/
+.metadata
+.classpath
+.project
+*.tmp
+*.bak
+*.swp
+*~.nib
+local.properties
+.loadpath
+.factorypath
+
+##############################
+## NetBeans
+##############################
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+##############################
+## Visual Studio Code
+##############################
+.vscode/
+.code-workspace
+
+##############################
+## OS X
+##############################
+.DS_Store
+,14 min,
+New
+History is on
+
